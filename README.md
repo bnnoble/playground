@@ -9,3 +9,4 @@
 5) Create branch 
 6) Work as usual -> save -> commit
 7) Push changes back to Github (git push origin your_branch_name)
+8) Create a pull request
